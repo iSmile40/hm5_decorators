@@ -1,0 +1,18 @@
+Имя функции - func_country 
+Дата и время вызова функции - 06.07.2021 17:40:45 
+Аргументы функции - ('Andorra',), {} 
+Результат - Andorra: https://en.wikipedia.org/wiki/Andorra 
+Путь к логам - D:\Python\Нетология\Профессиональная работа с Python (Модуль 2)\hm5_decorators\logs.txt 
+-------
+Имя функции - func_country 
+Дата и время вызова функции - 06.07.2021 17:41:05 
+Аргументы функции - ('French Southern and Antarctic Lands',), {} 
+Результат - French Southern and Antarctic Lands: https://en.wikipedia.org/wiki/French Southern and Antarctic Lands 
+Путь к логам - D:\Python\Нетология\Профессиональная работа с Python (Модуль 2)\hm5_decorators\logs.txt 
+-------
+Имя функции - func_country 
+Дата и время вызова функции - 06.07.2021 17:42:09 
+Аргументы функции - ('French Southern and Antarctic Lands',), {} 
+Результат - French_Southern_and_Antarctic_Lands: https://en.wikipedia.org/wiki/French_Southern_and_Antarctic_Lands 
+Путь к логам - D:\Python\Нетология\Профессиональная работа с Python (Модуль 2)\hm5_decorators\logs.txt 
+-------
